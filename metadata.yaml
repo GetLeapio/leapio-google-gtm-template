@@ -1,0 +1,5 @@
+homepage: "https://www.leapio.com"
+documentation: "https://www.leapio.com/docs/integrations/google-tag-manager"
+# Each version is a commit SHA in the public gallery repo (GetLeapio), newest first. Add the first
+# entry once that repo has its initial commit, and keep it in sync with that repo's metadata.yaml.
+versions: []
